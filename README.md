@@ -7,12 +7,12 @@
 -Run Project1.exe to play.
 
 *Features have been done:
--Nice graphics overall.
--Create game menu, game over window allows playback many times.
--Use object oriented programming method.
--Create collisions, explosion effects.
--Create animation for most objects: Meteors, spaceships, explosions, ..
--Processing menu background music, main game music, sound effects for most objects: explosions, bullets, menu mouse touch effects, ...
+-Nice graphics overall.;
+-Create game menu, game over window allows playback many times.;
+-Use object oriented programming method.;
+-Create collisions, explosion effects.;
+-Create animation for most objects: Meteors, spaceships, explosions, ..;
+-Processing menu background music, main game music, sound effects for most objects: explosions, bullets, menu mouse touch effects, ...;
 -Display text, score, high score.
 -Created an unstable orbit for meteorites.
 -Processing frame rates for the game.
