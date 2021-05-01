@@ -1,21 +1,39 @@
 # ASTEROID
 <img width="1125" alt="demo" src="https://user-images.githubusercontent.com/83483618/116768598-dfe7eb80-aa61-11eb-827a-7e68167667c5.png">
 
-*Installation:
+Mô tả: Điều khiển phi thuyền phá hủy thiên thạch.
 
--Extract ASTEROID.rar.
--Run Project1.exe to play.
+Cách Cài đặt:
 
-*Features have been done:
--Nice graphics overall.;
--Create game menu, game over window allows playback many times.;
--Use object oriented programming method.;
--Create collisions, explosion effects.;
--Create animation for most objects: Meteors, spaceships, explosions, ..;
--Processing menu background music, main game music, sound effects for most objects: explosions, bullets, menu mouse touch effects, ...;
--Display text, score, high score.
--Created an unstable orbit for meteorites.
--Processing frame rates for the game.
+B1: Giải nén tệp ASTEROID.zip.
 
-*How to play?
--Use WASD to move around, Left mouse button to shoot.
+B2: truy cập thư mục ASTEROID.
+
+B3: Chạy project1.exe
+
+Các tính năng đã làm được:
+
+-Sử dụng đồ họa để làm game.
+
+-Tạo được menu game, cửa sổ game over cho phép chơi lại nhiều lần
+
+-Dùng phương pháp lập trình hướng đối tượng.
+
+-Xử lí va chạm, hiệu ứng vụ nổ.
+
+-Xử lí animation cho hầu hết các đối tượng: Thiên thạch, phi thuyền, vụ nổ,..
+
+-Xử lí nhạc nền menu, nhạc chính game, hiệu ứng âm thanh cho hầu hết đối tượng: vụ nổ, đạn bắn, hiệu ứng chạm chuột menu,..
+
+-Xử lí text.
+
+-Hiển thị điểm số, điểm cao.
+
+-Tạo được quỹ đạo bất ổn cho thiên thạch.
+
+-Xử lí tốc độ khung hình cho game.
+
+Cách Chơi:
+
+-Sử dụng các phím WASD để di chuyển, click chuột trái để bắn.
+
