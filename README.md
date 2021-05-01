@@ -1,9 +1,9 @@
 # ASTEROID
 <img width="1125" alt="demo" src="https://user-images.githubusercontent.com/83483618/116768598-dfe7eb80-aa61-11eb-827a-7e68167667c5.png">
 
-Mô tả: Điều khiển phi thuyền phá hủy thiên thạch.
+*Mô tả: Điều khiển phi thuyền phá hủy thiên thạch.
 
-Cách Cài đặt:
+*Cách Cài đặt:
 
 B1: Giải nén tệp ASTEROID.zip.
 
@@ -11,7 +11,7 @@ B2: truy cập thư mục ASTEROID.
 
 B3: Chạy project1.exe
 
-Các tính năng đã làm được:
+*Các tính năng đã làm được:
 
 -Sử dụng đồ họa để làm game.
 
@@ -33,7 +33,7 @@ Các tính năng đã làm được:
 
 -Xử lí tốc độ khung hình cho game.
 
-Cách Chơi:
+*Cách Chơi:
 
 -Sử dụng các phím WASD để di chuyển, click chuột trái để bắn.
 
