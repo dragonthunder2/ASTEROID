@@ -37,3 +37,7 @@ B3: Chạy project1.exe
 
 -Sử dụng các phím WASD để di chuyển, click chuột trái để bắn.
 
+
+***LƯU Ý***
+-Nếu bị lỗi msvcp140.dll hãy cài vc redist x64 2015-2019 trên trang chủ microsoft.
+-Windows 10 KB5001391 (bản cập nhật mới nhất) có thể không chạy được chương trình.
